@@ -20,7 +20,6 @@ Cocok untuk developer, mahasiswa, atau siapa saja yang ingin meningkatkan fokus 
 
 - ✅ Pomodoro (10 menit), Istirahat Singkat (5 menit), Istirahat Panjang (15 menit)
 - 🔄 Pergantian sesi otomatis setelah satu sesi selesai
-- 🌘 Desain mode gelap yang minimalis dan elegan
 - 🖥️ Desain responsif untuk desktop dan perangkat seluler
 - 🔔 Notifikasi popup melalui browser (dengan izin pengguna)
 - 🔃 Fungsi Mulai, Jeda, dan Reset
