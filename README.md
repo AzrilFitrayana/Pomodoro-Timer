@@ -13,8 +13,8 @@ Cocok untuk developer, mahasiswa, atau siapa saja yang ingin meningkatkan fokus 
 - **HTML5** – struktur yang semantik dan mudah diakses
 - **CSS3** – desain modern dalam mode gelap dan responsif
 - **JavaScript Murni (ES6+)** – logika timer dan interaksi antarmuka
-- **LocalStorage API** – penyimpanan sesi yang telah diselesaikan
-- **Notification API** – notifikasi popup saat sesi selesai
+- **LocalStorage** – penyimpanan sesi yang telah diselesaikan
+- **Notification** – notifikasi popup saat sesi selesai
 
 ## ✨ Fitur
 
